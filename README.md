@@ -19,7 +19,7 @@ This repository contains a simple Android application created to learn about fra
 ## Resources
 - Official Android Documentation
 - Kotlin Documentation
-- TextBookHead First Android Development: A Learner's Guide to Building Android Apps with Kotlin 
+- TextBook : [Head First Android Development A Learner's Guide to Building Android Apps with Kotlin](https://www.amazon.com/Head-First-Android-Development-Learners/dp/149207652X)
 
 ## Contributing
 Contributions are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please feel free to open an issue or submit a pull request.
